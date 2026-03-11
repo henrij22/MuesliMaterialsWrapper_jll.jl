@@ -1,6 +1,6 @@
 name = "MuesliMaterialsWrapper_jll"
 uuid = "6dead231-e870-550e-b74b-2a3bf2cfaa53"
-version = "0.14.0+0"
+version = "0.14.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -12,7 +12,7 @@ MuesliMaterials_jll = "ef259003-9f3a-5fc7-ae68-dce6b88dc7d6"
 [compat]
 JLLWrappers = "1.7.0"
 julia = "~1.10, ~1.11, ~1.12, ~1.13"
-libcxxwrap_julia_jll = "~0.14.7"
+libcxxwrap_julia_jll = "~0.14.8"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
-MuesliMaterials_jll = "1.16"
+MuesliMaterials_jll = "1.16.1"
